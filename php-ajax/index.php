@@ -13,6 +13,7 @@
       <td id="header">
         <h1>PHP & Ajax CRUD</h1> 
 
+
         
         <div id="search-bar">
           <label>Search :</label>
